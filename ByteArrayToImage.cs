@@ -7,10 +7,6 @@ public class ByteArrayToImage : MonoBehaviour {
 
 	public GameObject canvasImage;
 
-	void Start () {
-		
-	}
-	
 	private void Set_Image(byte[] recevByteArr)
 	{
 		try
